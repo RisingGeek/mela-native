@@ -1,0 +1,12 @@
+{
+  "name": "mela-native",
+  "displayName": "mela-native",
+  "expo": {
+    "name": "mela-native",
+    "slug": "mela-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
